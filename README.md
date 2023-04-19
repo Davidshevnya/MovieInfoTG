@@ -4,7 +4,7 @@ EN:
 Open the console and enter the command - pip install -r requirements.txt
 <br />RU:
 Откройте консоль и введите команду - pip install -r requirements.txt
-# How to get an API key
+# How to get an API key | Как получить АПИ ключ
 EN:
 Follow the link http://www.omdbapi.com/apikey.aspx and fill in everything as in the photo (Enter your mail) and press SUBMIT. After clicking, you will receive an email with an API key (copy it and paste it into API_KEY)
 <br />RU:
